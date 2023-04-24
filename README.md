@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani </h1>
 <h3 align="center">Passionate data science enthusiast exploring the world through data. Eager to collaborate and drive innovation</h3>
-<img align ="right"  width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F717268678168057748%2F&psig=AOvVaw2O3wHJnRViBnCEcO24eXTz&ust=1682407008169000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCds9L8wf4CFQAAAAAdAAAAABAE">
+<img align ="right"  width = "400" src = "https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanivadlamani&label=Profile%20views&color=0e75b6&style=flat" alt="shivanivadlamani" /> </p>
 
 - 🔭 I’m currently working on **ML and Data Science projects**
